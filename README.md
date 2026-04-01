@@ -30,7 +30,14 @@
 - UI/UX principles for better user experiences  
 - Real-world project building and deployment  
 
+--- 
+
+## Projects
+- **[Food Ordering System](https://github.com/ashok21045/project-for-4th-sem)**  
+  A project focused on building smart and interactive web experiences made with HTML, CSS, JavaScript, PHP.
+
 ---
+## Github Metrics
 
 ![Ashok's GitHub Streak](https://streak-stats.demolab.com/?user=ashok21045&theme=tokyonight&hide_border=true)
 
