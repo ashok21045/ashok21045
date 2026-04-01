@@ -33,7 +33,7 @@
 --- 
 
 ## Projects
-- **[Food Ordering System](https://github.com/ashok21045/project-for-4th-sem)**  
+- **[BrainSpark](https://github.com/ashok21045/project-for-4th-sem)**  
   A project focused on building smart and interactive web experiences made with HTML, CSS, JavaScript, PHP.
 
 ---
