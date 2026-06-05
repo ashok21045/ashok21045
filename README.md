@@ -61,5 +61,5 @@
 
 <br/>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:388bfd,100:1f6feb&height=100&section=footer" width="100%"/>
 </div>
